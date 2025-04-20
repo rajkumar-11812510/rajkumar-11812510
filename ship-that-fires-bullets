@@ -1,0 +1,19 @@
+# 🚀 A Ship That Fires Bullets
+
+A 2D arcade game where the player controls a rocket ship to shoot down waves of alien invaders.
+
+## 🔧 Features
+- Player-controlled spaceship (arrow keys + spacebar)
+- Alien fleet movement & speed increases per wave
+- Bullet & collision detection
+- Game over conditions
+- Pygame-powered graphics and sound
+
+## 🛠️ Tech Stack
+- Python
+- Pygame
+
+## 📷 Preview
+*(Insert screenshots if available)*
+
+---
